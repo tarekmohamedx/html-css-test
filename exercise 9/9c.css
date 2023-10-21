@@ -1,0 +1,10 @@
+.div{
+    font-family: arial;
+    display: inline-block;
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    padding-bottom: 18px;
+    padding-left: 15px;
+    width: 310px;
+    border-width: 1px;
+}

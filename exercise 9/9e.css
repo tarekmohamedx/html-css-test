@@ -1,0 +1,42 @@
+.cat{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin-right: 0;
+}
+
+.input{
+    border: none;
+    font-size: 18px;
+    vertical-align: middle;
+    margin-left: 2px;
+    margin-right: 25px;
+}
+
+.tweet{
+    font-family: arial;
+    color: white;
+    background-color: rgb(29, 155, 240);
+    font-weight: bold;
+    width: 45px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 22px;
+    margin-left: 10;
+}
+
+.div{
+    width: 400px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
